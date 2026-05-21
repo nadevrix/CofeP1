@@ -7,7 +7,7 @@
 
 window.POLLAR_CONFIG = {
   // pub_testnet_... o pub_mainnet_...
-  apiKey: 'pub_testnet_2f2b2097c45561fa21861f878a2efadc75670706961668dda4565a6611c50253',
+  apiKey: 'pub_testnet_b733cee6532d9e6e9faf90477170ea6e5374bbdff372d90e78a41de70e29280d',
 
   // URL del backend Pollar Pay. Por defecto el público de producción.
   backendUrl: 'https://pp1back.vercel.app/api',
